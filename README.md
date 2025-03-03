@@ -19,7 +19,7 @@
 
 <hr>
 
-
+<img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif">
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfLukyan/OfLukyan/output/github-contribution-grid-snake-dark.svg">
