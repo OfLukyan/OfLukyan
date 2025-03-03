@@ -1,6 +1,6 @@
 # Hi, i im a Lukyan??
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiOfLukyan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![OfLukyan GitHub stats](https://github-readme-stats.vercel.app/api?username=OfLukyan&show_icons=true&theme=onedark)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfLukyan/OfLukyan/output/github-contribution-grid-snake-dark.svg">
