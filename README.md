@@ -21,6 +21,13 @@
 
 <img align="right" alt="" height="190px" src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif">
 
+<p align="center">Connect with me!</p>
+<br>
+<br>
+<div style="display: inline_block">
+  <img align="center" alt="" height="50px" src="https://cdn.discordapp.com/attachments/1029901117259259946/1346217171986157649/imagem_2025-03-03_172421036.png?ex=67c761f1&is=67c61071&hm=aa1b0d0bfcaf1ef0a76e544a2606f4e3a55dfbb9e4666b3c062f374d94582daa&">
+  <img align="center" alt="" height="75px" src="https://cdn.discordapp.com/attachments/1029901117259259946/1346217968660512909/imagem_2025-03-03_172350916_1.png?ex=67c762af&is=67c6112f&hm=cf7594ad42d9ec5a4be23901dff57e1536080b6126904b42e3f7e56036805072&">
+</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfLukyan/OfLukyan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfLukyan/OfLukyan/output/github-contribution-grid-snake-dark.svg">
