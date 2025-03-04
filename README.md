@@ -7,7 +7,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=OfLukyan alt=Lukyan o lindo/> </p>
 </div>
 
-![OfLukyan GitHub stats](https://github-readme-stats.vercel.app/api?username=OfLukyan&show_icons=true&theme=onedark)
+![OfLukyan GitHub stats](https://github-readme-stats.vercel.app/api?username=OfLukyan&show_icons=true&theme=dark)
   <img align="" alt="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFmcHdqYnU3Y2FpamtweTQxMXBicnpwYXR5Mjh2cTJvOGI5dmJxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wpmorACxfZJN6/giphy.gif" style="height: 195px;">
 
 <div style="display: inline_block">
