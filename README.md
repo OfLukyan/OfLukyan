@@ -1,10 +1,6 @@
-<!-- HEADER -->
-<h1 align="center">Oi, eu sou a Micka 👋</h1>
+# Mickael Lukyan
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia+💻;Sempre+aprendendo+coisas+novas+🚀" alt="Typing SVG" />
-</p>
-
+**'Estudante'**
 ---
 
 ## 🌸 Sobre mim
@@ -28,8 +24,8 @@
 ## 📊 Minhas estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OfLukyan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfLukyam&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -37,7 +33,7 @@
 ## 🐍 A cobrinha que come commits!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/OfLukyan/OfLukyan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
